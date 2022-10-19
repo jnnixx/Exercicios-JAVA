@@ -1,3 +1,5 @@
+import Correcao.ExercicioTresCorrecao;
+
 import java.util.Scanner;
 
 public class ExercicioCinco {
